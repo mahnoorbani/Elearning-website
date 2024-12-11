@@ -14,12 +14,11 @@ To install **E-learning website**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/mahnoorbani/Mah-Trendify-Ecommerce-website.git
-
+sudo git clone https://github.com/mahnoorbani/Elearning-website.git
 Windows:
 
 ```bash
-git clone https://github.com/mahnoorbani/Mah-Trendify-Ecommerce-website.git
+git clone https://github.com/mahnoorbani/Elearning-website.git
 
 ## Contact
 
